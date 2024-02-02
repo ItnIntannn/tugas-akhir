@@ -1,0 +1,84 @@
+.logo {
+    width: 220px;
+    height: auto;
+}
+
+.side-title > h3 {
+    font-size: 21px;
+    margin-bottom: 3px;
+}
+
+.side-title > p {
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+
+.sosial-media > img {
+    width: 30px;
+    height: auto;
+}
+
+.navbar-custom {
+   background-image: url(images/bg-menu.jpg);
+}
+
+li.active {
+    background-image: url(images/bg-menu-hover.png);
+}
+
+.caraousel {
+    width: 800px;
+    height: 350px !important;
+    /* overflow: hidden; */
+    background-color: #0F3065;
+}
+
+.caraousel-container {
+    background-color: #0F3065;
+}
+
+.caraousel .carousel-item img{
+    height: 350px;
+    width: 500px;
+}
+
+.card2 {
+    width: 50px;
+    height: 50px;
+}
+
+.judul {
+    color: #153870;
+}
+
+.news > .title {
+    color: #6294c0;
+}
+
+.news > .desc {
+    color: #877e87;
+}
+
+.footer {
+    background-color: #0F3065;
+}
+
+.kartu > img {
+    width: 250px;
+    height: 200px;
+}
+.kartu > h4,
+.kartu > p,
+.kartu > a{
+    width: 250px;
+}
+
+.LogoBawah {
+    height: 100px;
+    padding: 5px 5px;
+}
+
+.LogoBawah > img {
+    margin: 10px;
+}
+
